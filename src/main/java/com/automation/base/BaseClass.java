@@ -128,7 +128,7 @@ public class BaseClass extends Utility {
 			options.addArguments("--disable-infobars");
 			options.addArguments("window-size=1920,1080");
 			options.addArguments("--disable-dev-shm-usage"); 
-			options.addArguments("--headless");
+//			options.addArguments("--headless");
 			options.addArguments("--ignore-ssl-errors=yes");
 			options.addArguments("--ignore-certificate-errors");
 
